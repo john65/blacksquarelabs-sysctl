@@ -1,0 +1,7 @@
+name 'blacksquarelabs-sysctl'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures blacksquarelabs-sysctl'
+long_description 'Installs/Configures blacksquarelabs-sysctl'
+version '0.1.0'
